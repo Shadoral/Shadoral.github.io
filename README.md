@@ -1,8 +1,9 @@
 
 <html>
 <body>
-     bgcolor="#0A0A0A"
-</body> 
+<body style="background-color: #FF474C;">
+<!-- page content goes here -->
+</body>
 <h1>
      Profile
 </h1>
