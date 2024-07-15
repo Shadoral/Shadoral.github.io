@@ -3,7 +3,7 @@ Past projects:
 <ul>
     <li>Additive Manufacturing (AM)</li>
     <li>Structure colouration</li>
-    <li>Application of metalic organic framework (MOFs)</li>
+    <li>Application of metalic organic framework (MOF)</li>
 </ul>
 <h1>
     Introduction
