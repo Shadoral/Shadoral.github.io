@@ -20,14 +20,7 @@ right now just a random undergrad chem major here. with a slight interest in:
     <li>Iridescence/structure colouration</li>
     <li>metalic organic framework (MOF)</li>
 </ul>
-<h1>
-  future research topics that i am interested in: 
-</h1>
-<ul>
-    <li>Surface chemistry</li>
-    <li>Total synthesis</li>
 
-</ul>
 <h1>
     Introduction
 </h1>
