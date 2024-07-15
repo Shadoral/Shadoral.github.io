@@ -25,7 +25,7 @@ right now just a random undergrad chem major here. with a slight interest in:
 </h1>
 <ul>
     <li>Surface chemistry</li>
-    <li>Total Synthesis</li>
+    <li>Total synthesis</li>
 
 </ul>
 <h1>
