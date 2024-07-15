@@ -1,15 +1,8 @@
-<head>
-<style>
 
-h1   {color: blue;}
-h2   {color: blue;}
-
-</style>
-</head>
 Just a random undergrad chem major here.
-<h2>    
+<h1>    
     Past projects:
-</h2>
+</h1>
 <ul>
     <li>Additive Manufacturing (AM)</li>
     <li>Structure colouration</li>
