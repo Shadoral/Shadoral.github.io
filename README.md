@@ -34,16 +34,16 @@ General Chemistry
 </h1>
 
 <h1>
-Physical
+Physical Chemistry
 </h1>
 <h1>
-Organic
+Organic Chemistry
 </h1>
 <h1>
-Inorganic
+Inorganic Chemistry
 </h1>
 <h1>
-Analytical
+Analytical Chemistry
 </h1>
 <h1>
 Advanced/special topics in undergraduate chemistry
