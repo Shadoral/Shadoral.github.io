@@ -1,5 +1,7 @@
 Just a random undergrad chem major here.
-Past projects:
+<h2>    
+    Past projects:
+</h2>
 <ul>
     <li>Additive Manufacturing (AM)</li>
     <li>Structure colouration</li>
