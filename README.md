@@ -1,6 +1,8 @@
 
 <html>
-body {  background-color: #efefef; } 
+<body>
+     bgcolor="#0A0A0A"
+</body> 
 <h1>
      Profile
 </h1>
