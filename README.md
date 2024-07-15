@@ -1,7 +1,15 @@
-
+<h1>
+     Profile
+</h1>
+Experience in the following:
+<ul>
+    <li>Three years of polytechnic chemistry practical</li>
+    <li>Six months professional research internship at a MNC</li>
+    <li>Two years of military service as a medic</li>
+</ul>
 Just a random undergrad chem major here.
 <h1>    
-    Past projects:
+    Past research projects:
 </h1>
 <ul>
     <li>Additive Manufacturing (AM)</li>
