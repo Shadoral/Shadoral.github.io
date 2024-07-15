@@ -1,8 +1,8 @@
 
 <html>
-<body>
+
 <body style="background-color: #0A0A0A;">
-<h1 style="color: #FFFFFF;">
+
 
 <h1>
      Profile
