@@ -1,10 +1,10 @@
-
 <html>
 
 
 <h1>
      Profile
 </h1>
+<p>
 My experience so far:
 <ul>
     <li> Three years of chemistry theory and practical training at a polytechnic. </li>
@@ -15,6 +15,7 @@ right now just a random undergrad chem major here. with a slight interest in:
 <ul>
     <li> Science, philosophy, literature, art, anime, manga, engineering. </li>
 </ul>
+</p>
 
 <h2>    
     Past research topics:
