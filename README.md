@@ -7,7 +7,11 @@ My experience so far:
     <li> Six months professional research internship at a MNC.</li>
     <li>Two years of military service as a medic.</li>
 </ul>
-right now just a random undergrad chem major here.
+right now just a random undergrad chem major here. with a slight interest in:
+<ul>
+    <li> Science, philosophy, literature, art, anime, manga, engineering. </li>
+</ul>
+
 <h1>    
     Past research projects:
 </h1>
