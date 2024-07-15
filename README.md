@@ -1,8 +1,9 @@
 Just a random undergrad chem major here.
+Past projects:
 <ul>
-    <li>Fate</li>
-    <li>Steins Gate</li>
-    <li>Mushoku Tensei</li>
+    <li>Additive Manufacturing (AM)</li>
+    <li>Structure colouration</li>
+    <li>Application of metalic organic framework (MOFs)</li>
 </ul>
 <h1>
     Introduction
