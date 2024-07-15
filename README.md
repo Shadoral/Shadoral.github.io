@@ -34,12 +34,17 @@ General Chemistry
 </h1>
 
 <h1>
-General Chemistry
+Physical
 </h1>
 <h1>
-General Chemistry
+Organic
 </h1>
 <h1>
-General Chemistry
+Inorganic
 </h1>
-
+<h1>
+Analytical
+</h1>
+<h1>
+Advanced/special topics in undergraduate chemistry
+</h1>
