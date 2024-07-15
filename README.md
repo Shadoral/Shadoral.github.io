@@ -2,8 +2,8 @@
 <html>
 <body>
 <body style="background-color: #0A0A0A;">
-<!-- page content goes here -->
-</body>
+<h1 style="color: #FFFFFF;">
+     
 <h1>
      Profile
 </h1>
@@ -55,5 +55,5 @@ Analytical Chemistry
 Advanced/special topics in undergraduate chemistry
 </h1>
 
-
+</body>
 </html>
