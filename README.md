@@ -4,8 +4,8 @@
 <h1>
      Profile
 </h1>
-<p>
-My experience so far:
+
+<p style="font-family:courier;">My experience so far:
 <ul>
     <li> Three years of chemistry theory and practical training at a polytechnic. </li>
     <li> Six months professional research internship at a MNC.</li>
