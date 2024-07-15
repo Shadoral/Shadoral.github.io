@@ -13,8 +13,7 @@ My experience so far:
 right now just a random undergrad chem major here. with a slight interest in:
 <ul>
     <li> Science, philosophy, literature, art, anime, manga, engineering. </li>
-</ul
-</p>
+</ul>
 
 <h2>    
     Past research topics:
