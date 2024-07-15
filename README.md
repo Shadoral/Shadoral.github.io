@@ -3,7 +3,7 @@
 </h1>
 My experience so far:
 <ul>
-    <li> three years of chemistry theory and practical training at a polytechnic </li>
+    <li> Three years of chemistry theory and practical training at a polytechnic </li>
     <li> Six months professional research internship at a MNC</li>
     <li>Two years of military service as a medic</li>
 </ul>
