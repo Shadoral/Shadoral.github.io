@@ -2,6 +2,7 @@
 <html>
 <head>
      test
+     <title>test title</title>
 </head>
 
 <h1>
