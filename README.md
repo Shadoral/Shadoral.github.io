@@ -1,7 +1,6 @@
 
 <html>
-<meta charset="UTF-8">
-<meta name="description" content="This is my first website. It includes lots of information about my life.">
+
 <h1>
      Profile
 </h1>
