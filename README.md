@@ -3,18 +3,18 @@
 </h1>
 My experience so far:
 <ul>
-    <li> Three years of chemistry theory and practical training at a polytechnic </li>
-    <li> Six months professional research internship at a MNC</li>
-    <li>Two years of military service as a medic</li>
+    <li> Three years of chemistry theory and practical training at a polytechnic. </li>
+    <li> Six months professional research internship at a MNC.</li>
+    <li>Two years of military service as a medic.</li>
 </ul>
-Just a random undergrad chem major here.
+right now just a random undergrad chem major here.
 <h1>    
     Past research projects:
 </h1>
 <ul>
     <li>Additive Manufacturing (AM)</li>
-    <li>Structure colouration</li>
-    <li>Application of metalic organic framework (MOF)</li>
+    <li>Iridescence/structure colouration</li>
+    <li>metalic organic framework (MOF)</li>
 </ul>
 <h1>
     Introduction
