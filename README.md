@@ -1,6 +1,6 @@
 <head>
 <style>
-body {background-color: powderblue;}
+
 h1   {color: blue;}
 h2   {color: blue;}
 
