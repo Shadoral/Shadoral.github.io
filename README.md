@@ -12,9 +12,9 @@ right now just a random undergrad chem major here. with a slight interest in:
     <li> Science, philosophy, literature, art, anime, manga, engineering. </li>
 </ul>
 
-<h1>    
+<h2>    
     Past research topics:
-</h1>
+</h2>
 <ul>
     <li>Additive Manufacturing (AM)</li>
     <li>Iridescence/structure colouration</li>
