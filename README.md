@@ -18,3 +18,303 @@ Just a random undergrad chem major here.
 <p> 
 Work in progress.
 </p>
+<p> 
+Work in progress.
+</p>
+<p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p><p> 
+Work in progress.
+</p>
