@@ -13,7 +13,7 @@ right now just a random undergrad chem major here. with a slight interest in:
 </ul>
 
 <h1>    
-    Past research projects:
+    Past research topics:
 </h1>
 <ul>
     <li>Additive Manufacturing (AM)</li>
@@ -21,7 +21,7 @@ right now just a random undergrad chem major here. with a slight interest in:
     <li>metalic organic framework (MOF)</li>
 </ul>
 <h1>
-  possible future research topics that i am interested in: 
+  future research topics that i am interested in: 
 </h1>
 <ul>
     <li>Surface chemistry</li>
