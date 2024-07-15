@@ -1,10 +1,10 @@
 <h1>
      Profile
 </h1>
-Experience in the following:
+My experience so far:
 <ul>
-    <li>Three years of polytechnic chemistry practical</li>
-    <li>Six months professional research internship at a MNC</li>
+    <li> three years of chemistry theory and practical training at a polytechnic </li>
+    <li> Six months professional research internship at a MNC</li>
     <li>Two years of military service as a medic</li>
 </ul>
 Just a random undergrad chem major here.
