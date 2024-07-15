@@ -29,9 +29,4 @@ General Chemistry
 <h1>
 General Chemistry
 </h1>
-Work in progress.
-</p><p> 
-Work in progress.
-</p><p> 
-Work in progress.
-</p>
+
