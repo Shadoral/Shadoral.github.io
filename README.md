@@ -5,7 +5,7 @@ My experience so far:
 <ul>
     <li> Three years of chemistry theory and practical training at a polytechnic. </li>
     <li> Six months professional research internship at a MNC.</li>
-    <li>Two years of military service as a medic.</li>
+
 </ul>
 right now just a random undergrad chem major here. with a slight interest in:
 <ul>
