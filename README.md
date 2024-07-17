@@ -35,7 +35,7 @@ Influential figures in my life, academic journey past and present
     <li>Ahmad H</li>
   </ul>
 <h2>
-Scientist who i looked up to
+Scientists who i look up to
 </h2>
  <li>J. Robert Oppenheimer</li>
     <li>Linus Pauling</li>
