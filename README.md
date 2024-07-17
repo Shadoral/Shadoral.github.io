@@ -51,9 +51,14 @@ I hope to share what i know about the subject that i am passionate in. This is m
      Why chemistry?
 </h2>
 <p>
-     before diving into books i'd recommend, lets address the elephant in the room. Do you want a career in chemistry? Chances are you have interest and thoughts about reading chemistry as a major and possibly a career in the respective field after you graduate. Now imagine yourself working in a lab alone, running test for your samples for six hour straight and then reporting it to your superiors. How does that make you feel? What i have just described would most likely be your job scope other than some ad-hoc matters. If you think you are fine with it, i would think you are comfortable in a lab/love the task and this might even be your dream job. Note that i have simplified this job scope and your responsibilities may differ but it should not be a lot different unless your job requires you to go on-site or discuss legal matters. 
+     before diving into books i'd recommend, lets address the elephant in the room. Do you want a career in chemistry? Chances are you have interest and thoughts about reading chemistry as a major and possibly a career in the respective field after you graduate. Now imagine yourself working in a lab alone, running test for your samples for six hour straight and then reporting the data/results to your superiors. How does that make you feel? What i have just described would most likely be your job scope in a analytical chemist role other than some ad-hoc matters. If you think you are fine with it, i would think you are comfortable in a lab/love the task and this might even be your dream job. 
+   </p>  
+<p>
+     Note that i have simplified this job scope and your responsibilities may differ but it should not be a lot different unless your job requires you to go on-site or discuss legal matters or research and development (R&D) role.
+To my knowledge in my country's market it is pretty much analytical chemist role in demand.
 
-I have heard instances where students love the theory component of chemistry but when it comes to practical they dread it as it is routine-based and has little flexiblity, and few years into their job post they decide to switch industries. 
+I have heard instances where students love the theory component of chemistry but when it comes to practical they dread it as it is routine-based and has little flexiblity, and few years into their job post they decide to switch industries.
+
 </p>
 
 <h1>
