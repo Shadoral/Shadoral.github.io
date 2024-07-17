@@ -25,11 +25,10 @@ right now just a random undergrad chem major here. with a slight interest in:
 </ul>
 
 
-<h1>
+<h2>
 Influential figures in my life, academic journey past and present
-</h1>
+</h2>
 <ul>
-
      <li>My Father Mr Q</li>
      <li>Mdm L</li>
     <li>J. Robert Oppenheimer</li>
@@ -40,8 +39,8 @@ Influential figures in my life, academic journey past and present
     <li>Carl Sagan</li>
     <li>Dr THM</li>
     <li>Ahmad H</li>
-  
-</ul>
+  </ul>
+
 <h1>
     Introduction
 </h1>
