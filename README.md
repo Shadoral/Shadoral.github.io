@@ -29,8 +29,9 @@ right now just a random undergrad chem major here. with a slight interest in:
 Influential figures in my life, academic journey past and present
 </h1>
 <ul>
-  <li>My Father Mr Q</li>
-  <li>Mdm L</li>
+
+     <li>My Father Mr Q</li>
+     <li>Mdm L</li>
     <li>J. Robert Oppenheimer</li>
     <li>Linus Pauling</li>
     <li>Richard Feynman</li>
