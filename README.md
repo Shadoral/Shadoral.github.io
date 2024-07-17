@@ -31,6 +31,26 @@ right now just a random undergrad chem major here. with a slight interest in:
 "How to learn chemistry" — the title is deliberately provocative. Everyone has to learn their own way. I don't know how you should learn chemistry. But presumably you came here looking for advice, so I'll give you some.
 
 </p>
+<h1>
+Influential figures in my life, academic journey past and present
+</h1>
+<ul>
+  <li>My Father Mr Q.</li>
+  <li>Mdm L</li>
+    <li>J. Robert Oppenheimer</li>
+    <li>Linus Pauling</li>
+    <li>Richard Feynman</li>
+    <li>Sherlock Holmes</li>
+    <li>Jennifer Doudna</li>
+    <li>Carl Sagan</li>
+    <li>Dr THM</li>
+    <li>Ahmad H</li>
+  
+</ul>
+
+
+
+
 
 <h1>
 General Chemistry
