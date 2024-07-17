@@ -31,15 +31,19 @@ Influential figures in my life, academic journey past and present
 <ul>
      <li>My Father Mr Q</li>
      <li>Mdm L</li>
-    <li>J. Robert Oppenheimer</li>
+    <li>Dr THM</li>
+    <li>Ahmad H</li>
+  </ul>
+<h2>
+Scientist who i looked up to
+</h2>
+ <li>J. Robert Oppenheimer</li>
     <li>Linus Pauling</li>
     <li>Richard Feynman</li>
     <li>Sherlock Holmes</li>
     <li>Jennifer Doudna</li>
     <li>Carl Sagan</li>
-    <li>Dr THM</li>
-    <li>Ahmad H</li>
-  </ul>
+
 
 <h1>
     Introduction
