@@ -56,7 +56,8 @@ I hope to share what i know about the subject that i am passionate in. This is m
 <p>
      Note that i have simplified this job scope and your responsibilities may differ but it should not be a lot different unless your job requires you to go on-site or discuss legal matters or research and development (R&D) role.
 To my knowledge in my country's market it is pretty much analytical chemist role in demand.
-
+</p>
+<p>
 I have heard instances where students love the theory component of chemistry but when it comes to practical they dread it as it is routine-based and has little flexiblity, and few years into their job post they decide to switch industries.
 
 </p>
