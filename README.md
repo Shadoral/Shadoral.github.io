@@ -51,7 +51,7 @@ I hope to share what i know about the subject that i am passionate in. This is m
      Why chemistry?
 </h2>
 <p>
-     before diving into books i'd recommend, lets address the elephant in the room. Do *YOU* want a career in chemistry?
+     before diving into books i'd recommend, lets address the elephant in the room. Do *YOU want a career in chemistry?
 </p>
 
 <h1>
