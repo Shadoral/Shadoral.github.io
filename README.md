@@ -33,6 +33,8 @@ Influential figures in my life, academic journey past and present
      <li>Mdm L</li>
     <li>Dr THM</li>
     <li>Ahmad H</li>
+    <li>seiko bois</li>
+     
   </ul>
 <h2>
 Scientists who i look up to
