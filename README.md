@@ -24,18 +24,12 @@ right now just a random undergrad chem major here. with a slight interest in:
     <li>metalic organic framework (MOF)</li>
 </ul>
 
-<h1>
-    Introduction
-</h1>
-<p> 
-"How to learn chemistry" — the title is deliberately provocative. Everyone has to learn their own way. I don't know how you should learn chemistry. But presumably you came here looking for advice, so I'll give you some.
 
-</p>
 <h1>
 Influential figures in my life, academic journey past and present
 </h1>
 <ul>
-  <li>My Father Mr Q.</li>
+  <li>My Father Mr Q</li>
   <li>Mdm L</li>
     <li>J. Robert Oppenheimer</li>
     <li>Linus Pauling</li>
@@ -47,8 +41,6 @@ Influential figures in my life, academic journey past and present
     <li>Ahmad H</li>
   
 </ul>
-
-
 
 
 
