@@ -58,7 +58,7 @@ I hope to share what i know about the subject that i am passionate in. This is m
 To my knowledge in my country's market it is pretty much analytical chemist role in demand.
 </p>
 <p>
-I have heard instances where students love the theory component of chemistry but when it comes to practical they dread it as it is routine-based and has little flexiblity, and few years into their job post they decide to switch industries.
+I have heard instances where students love the theory component of chemistry but when it comes to practical they dread it as it is routine-based and has little flexiblity, and few years into their job post they decide to switch industries/get into a cushy lecturer job but there's only so many of such post.
 
 </p>
 
