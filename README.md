@@ -40,10 +40,9 @@ Scientist who i looked up to
  <li>J. Robert Oppenheimer</li>
     <li>Linus Pauling</li>
     <li>Richard Feynman</li>
-    <li>Sherlock Holmes</li>
     <li>Jennifer Doudna</li>
     <li>Carl Sagan</li>
-
+    <li>(Fictional)Sherlock Holmes</li>
 
 <h1>
     Introduction
