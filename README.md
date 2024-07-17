@@ -45,8 +45,14 @@ Influential figures in my life, academic journey past and present
     Introduction
 </h1>
 <p> 
-"How to learn chemistry" — the title is deliberately provocative. Everyone has to learn their own way. I don't know how you should learn chemistry. But presumably you came here looking for advice, so I'll give you some.
+I hope to share what i know about the subject that i am passionate in. This is my contribution, an attempt at providing educational resources about chemistry. I have been fortunate enough to have met people who guided and pointed me in a favourable direction (le chatelier principle LOL ok pun aside). This is my method of paying it forward by immortalising somewhat of a knowledge/library thing on the internet. 
 
+<h2>
+     Why chemistry?
+</h2>
+<p>
+     before diving into books i'd recommend, lets address the elephant in the room. Do *YOU* want a career in chemistry?
+</p>
 
 <h1>
 General Chemistry
