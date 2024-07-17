@@ -48,7 +48,7 @@ Influential figures in my life, academic journey past and present
 I hope to share what i know about the subject that i am passionate in. This is my contribution, an attempt at providing educational resources about chemistry. I have been fortunate enough to have met people who guided and pointed me in a favourable direction (le chatelier principle LOL ok pun aside). This is my method of paying it forward by immortalising somewhat of a knowledge/library thing on the internet. 
 
 <h2>
-     Why chemistry?
+   Do you want a career in chemistry? 
 </h2>
 <p>
      before diving into books i'd recommend, lets address the elephant in the room. Do you want a career in chemistry? Chances are you have interest and thoughts about reading chemistry as a major and possibly a career in the respective field after you graduate. Now imagine yourself working in a lab alone, running test for your samples for six hour straight and then reporting the data/results to your superiors. How does that make you feel? What i have just described would most likely be your job scope in a analytical chemist role other than some ad-hoc matters. If you think you are fine with it, i would think you are comfortable in a lab/love the task and this might even be your dream job. 
@@ -61,6 +61,9 @@ To my knowledge in my country's market it is pretty much analytical chemist role
 I have heard instances where students love the theory component of chemistry but when it comes to practical they dread it as it is routine-based and has little flexiblity, and few years into their job post they decide to switch industries/get into a cushy lecturer job but there's only so many of such post.
 
 </p>
+<h2>
+   Why i chose chemistry
+</h2>
 
 <h1>
 General Chemistry
