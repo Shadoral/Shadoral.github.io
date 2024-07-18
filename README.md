@@ -56,14 +56,13 @@ I hope to share what i know about the subject that i am passionate in. This is m
    Do you want a career in chemistry? 
 </h2>
 <p>
-     before diving into books i'd recommend, lets address the elephant in the room. Do you want a career in chemistry? Chances are you have interest and thoughts about reading chemistry as a major and possibly a career in the respective field after you graduate. Now imagine yourself working in a lab alone, running test for your samples for six hour straight and then reporting the data/results to your superiors. How does that make you feel? What i have just described would most likely be your job scope in a analytical chemist role other than some ad-hoc matters. If you think you are fine with it, i would think you are comfortable in a lab/love the task and this might even be your dream job (you are a masochist, if u haven't realised but same here :)). 
-   </p>  
-<p>
-     Note that i have simplified this job scope and your responsibilities may differ but it should not be a lot different unless your job requires you to go on-site or discuss legal matters or research and development (R&D) role.
-To my knowledge in my country's market it is pretty much analytical chemist role in demand.
+  Before diving into the books I'd recommend, let's address the elephant in the room: Do you want a career in chemistry? Chances are you have an interest in majoring in chemistry and possibly pursuing a career in the field after you graduate. Now, imagine yourself working alone in a lab, running tests on your samples for six hours straight, and then reporting the results to your superiors. How does that make you feel? What I have just described is likely what your job as an analytical chemist would entail, aside from some ad-hoc tasks. If you think you are fine with this, you probably enjoy lab work and might even find this to be your dream job. 
 </p>
 <p>
-I have heard instances where students love the theory component of chemistry and relatively short lab hours throughout their undergrad years but when it comes to real life job they dread it as it is routine-based and has little flexiblity, and few years into their job post they decide to switch industries/get into a cushy lecturer job but there's only so many of such post.
+Note that I have simplified the job scope, and your responsibilities may vary, but they shouldn't be too different unless your job requires you to go on-site, discuss legal matters, or engage in research and development (R&D). From my knowledge of my country's market, the role of an analytical chemist is in high demand.
+</p>
+<p>
+I have heard of instances where students love the theoretical components of chemistry and the relatively short lab hours during their undergraduate years. However, when it comes to a real-life job, they dread it because it is routine-based and lacks flexibility. A few years into their career, they decide to switch industries or seek a cushy lecturer position, but there are only so many of those roles available.
 
 </p>
 <h2>
