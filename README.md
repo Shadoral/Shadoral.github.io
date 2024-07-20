@@ -75,13 +75,13 @@ I have heard of instances where students love the theoretical components of chem
      became a huge fan of him and studied what transpired in the past. 
      </p>
 <p>
-     During my secondary school years, i enrolled early into a 3 years chemistry course in a polytechnic because i loved chemistry so much to the point my youtube feed filled with codylab/styropyro/nilered's video. They certainly did 
-     helped supplement my interest in the subject :) kudos to them! After graduating my next course of action was to apply for a university course.
+     During my secondary school years, i enrolled early into a 3 years chemistry course in a polytechnic because i loved chemistry so much to the point my youtube feed was filled with codylab/styropyro/nilered's video as reccomendation.
+     They certainly did helped supplement my interest in the subject :) kudos to them! After graduating my next course of action was to apply for a university course.
 </p>
 <p>
      While I am not as naive as I once was, I still believe science is the only viable career option for me. I was offered the chance to pursue chemical engineering and materials science as majors; however, I decided to decline both of 
      them because I wanted to pursue natural science in a theoretical manner rather than applied science practically. Reading the course outlines helped me reach this decision, and I don't think I can learn effectively by only knowing the 
-     broad applications of chemistry. My desire is to understand chemistry and perhaps even come up with theoretical approaches to solving chemistry problems, such as using computational methods.
+     broad applications of chemistry. My desire is to understand chemistry and perhaps even come up with theoretical approaches to solving chemistry problems, such as using computational methods. If i am eligible to apply for post graduate studies i will attempt to finish the PhD at my local university. Right now i will just do my best to learn whatever i can. :) 
 </p>
 <p>
      Another question to ask yourself is: Are you able to picture yourself as a finance/tech bro working in an office? I couldn't. I don't think those careers would fulfill me.
