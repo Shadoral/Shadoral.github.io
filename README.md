@@ -72,7 +72,11 @@ I have heard of instances where students love the theoretical components of chem
      Oddly enough, I couldn't think of a proper answer off the top of my head. As I grew older, my answers became a blur—life happened. I had to revisit my past self. In the past, I wrote down some personal statements. In them, I 
      mentioned, "Since I was young, I wanted to contribute and apply what I love and know to the advancement of sciences and the chemical industry," and, "The dream of becoming a scientist was something I longed for, as I loved the idea of
      tackling socio-technological problems relevant to the current and future of our world." The eagerness and belief in doing good with science struck a chord with me, which I believe is why, when "Oppenheimer" was released in cinemas, I
-     became a huge fan of him and studied what transpired in the past. During my secondary school years, i enrolled early into a 3 years chemistry course in a polytechnic because i loved chemistry so much to the point my youtube feed filled with codylab/styropyro/nilered's video. They certainly did helped supplement my interest in the subject :) kudos to them! After graduating my next course of action was to apply for a university course.
+     became a huge fan of him and studied what transpired in the past. 
+     </p>
+<p>
+     During my secondary school years, i enrolled early into a 3 years chemistry course in a polytechnic because i loved chemistry so much to the point my youtube feed filled with codylab/styropyro/nilered's video. They certainly did 
+     helped supplement my interest in the subject :) kudos to them! After graduating my next course of action was to apply for a university course.
 </p>
 <p>
      While I am not as naive as I once was, I still believe science is the only viable career option for me. I was offered the chance to pursue chemical engineering and materials science as majors; however, I decided to decline both of 
