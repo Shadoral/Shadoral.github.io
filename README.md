@@ -71,7 +71,9 @@ I have heard of instances where students love the theoretical components of chem
      My advice to picking something is think about what career you don't like/most likely wont enjoy and strike those career off the list. Nobody can stop you from learning and thinking about your future 
      The real issue is where you want to work. It's possible to switch from one discipline to another but it's not easy, So, it's wise to decide which job suits you best.
 </p>
+<p>
 To decide, you need to know how jobs differ. For this, it's best to talk to as people as you can, and find out what their jobs are like. Talk to your professors!
+</p>
 <p>
      Understandbly not everyone is fortunate enough to have choices and i wish you all the best don't give up.
 </p>
