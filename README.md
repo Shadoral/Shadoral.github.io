@@ -34,6 +34,9 @@ Influential figures in my life, academic journey past and present
     <li>Dr THM</li>
     <li>Ahmad H</li>
     <li>seiko bois</li>
+    <li>C.eddy</li>
+    <li>A.L.Y.Y</li>
+    <li>S.A.R.A.H.C</li>
      
   </ul>
 <h2>
