@@ -69,6 +69,16 @@ I have heard of instances where students love the theoretical components of chem
    Why i chose chemistry
 </h2>
 
+<h2>
+   Mindset/Mentality that i think would benefit you as a scientist 
+</h2>
+     <li>Being observant</li>
+     <li>Being curious</li>
+     <li>Being open-minded</li>
+     <li>Open communication</li>
+     <li>Take risk</li>
+
+
 <h1>
 General Chemistry
 </h1>
