@@ -62,7 +62,7 @@ I hope to share what i know about the subject that i am passionate in. This is m
 Note that I have simplified the job scope, and your responsibilities may vary, but they shouldn't be too different unless your job requires you to go on-site, discuss legal matters, or engage in research and development (R&D). From my knowledge of my country's market, the role of an analytical chemist is in high demand.
 </p>
 <p>
-I have heard of instances where students love the theoretical components of chemistry and the relatively short lab hours during their undergraduate years. However, when it comes to a real-life job, they dread it because it is routine-based and lacks flexibility. A few years into their career, they decide to switch industries or seek a cushy lecturer position, but there are only so many of those roles available.
+I have heard of instances where students love the theoretical components of chemistry and the relatively short lab hours during their undergraduate years. However, when it comes to a real-life job, they dread it because it is routine-based and lacks flexibility. A few years into their career, they decide to switch industries or seek a cushy lecturer position, but there are only so many of those roles available. There are a lot of factors to consider, such as financial/desire/lifestyle. My advice to picking something is think about what career you don't like/most likely wont enjoy and strike those career off the list. Understandbly not everyone is fortunate enough to have choices and i wish you all the best don't give up.
 
 </p>
 <h2>
