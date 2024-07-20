@@ -75,8 +75,8 @@ I have heard of instances where students love the theoretical components of chem
      became a huge fan of him and studied what transpired in the past. 
      </p>
 <p>
-     During my secondary school years, i enrolled early into a 3 years chemistry course in a polytechnic because i loved chemistry so much to the point my youtube feed was filled with codylab/styropyro/nilered's video as reccomendation.
-     They certainly did helped supplement my interest in the subject :) kudos to them! After graduating my next course of action was to apply for a university course.
+     During my secondary school years, i enrolled early into a 3 years chemistry course in a polytechnic because i loved chemistry so much to the point my youtube feed was filled with codylab/styropyro/nilered's video as recommendation.
+     They certainly did helped supplement my interest in the subject :) kudos to them! After graduating my next course of action was to apply for a university course. Side note, it was also when i was at polytechnic where i met most of my influential figures in my life. Not only that but also the elective modules i have taken helped me understand chemistry from a different pov such as math and physics.
 </p>
 <p>
      While I am not as naive as I once was, I still believe science is the only viable career option for me. I was offered the chance to pursue chemical engineering and materials science as majors; however, I decided to decline both of 
