@@ -107,7 +107,7 @@ To decide, you need to know how jobs differ. For this, it's best to talk to as p
      <li>Being open-minded</li>
      <li>Open communication</li>
      <li>Take risk</li>
-     <li>keeping yourself sane</li>
+     <li> learn to?keep yourself sane</li>
 
 
 <h1>
