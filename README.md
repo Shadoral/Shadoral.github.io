@@ -98,6 +98,7 @@ I have heard of instances where students love the theoretical components of chem
      <li>Being open-minded</li>
      <li>Open communication</li>
      <li>Take risk</li>
+     <li>keeping yourself sane</li>
 
 
 <h1>
