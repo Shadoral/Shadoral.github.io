@@ -111,6 +111,16 @@ To decide, you need to know how jobs differ. For this, it's best to talk to as p
 
 
 <h1>
+Intervention 24/7/2024
+</h1>
+
+<p>
+     In the midst of writing, i was informed that the voice actress of Nobita from Doraemon a childhood anime of mine has passed. While i have stopped watching it, it was what got me interested in science in the first place and it was also the first science fiction medium to introduce time travel to me. I hope many more mediums will continue to inspire future generation scientist just as this one did for me. RIP. Bless you reader and take care.
+</p>
+
+
+
+<h1>
 General Chemistry
 </h1>
 
